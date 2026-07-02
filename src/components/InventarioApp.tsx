@@ -77,9 +77,9 @@ export default function InventarioApp({ email }: { email: string | null }) {
       </main>
 
       <footer className="flex items-center justify-between border-t border-border bg-surface-muted px-5 py-2.5 text-xs text-muted">
-        <span>Gestión de Inventario · Datos en la nube (Supabase)</span>
+        <span>Gestión de Inventario · Datos en la nube Jk ♥ </span>
         <span className="italic">
-          Formato TXT: NOMBRE|DESCRIPCION|CATEGORIA|CANTIDAD|PRECIO
+          Importar en Formato TXT: NOMBRE|DESCRIPCION|CATEGORIA|CANTIDAD|PRECIO
         </span>
       </footer>
     </div>
